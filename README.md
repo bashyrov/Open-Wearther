@@ -11,7 +11,7 @@
 
 ## 🚀 Tech Stack
 
-- Python / Django (or Flask, if you prefer)
+- Python & Django
 - Telegram Bot API integration
 - External Weather APIs (OpenWeatherMap)
 - SQLite
