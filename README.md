@@ -13,7 +13,7 @@
 
 - Python / Django (or Flask, if you prefer)
 - Telegram Bot API integration
-- External Weather APIs (e.g. OpenWeatherMap, WeatherAPI)
+- External Weather APIs (OpenWeatherMap)
 - SQLite
 
 ## ⚙️ Setup
